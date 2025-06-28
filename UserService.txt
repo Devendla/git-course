@@ -2,4 +2,8 @@ Get the user data....
 process the data
 
 create an avatar for user
+<<<<<<< HEAD
 change1
+=======
+login and logout
+>>>>>>> feature3
