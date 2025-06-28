@@ -1,5 +1,5 @@
 add and remove users
-change the roles
+change the roles from server
 
 change1
 change2 in harsh's database
